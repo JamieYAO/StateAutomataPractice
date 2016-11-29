@@ -1,8 +1,8 @@
-*  Must be installed node and npm and git<br/>
+*  Must be installed node and git<br/>
   node official site：https://nodejs.org/en/ <br/>
   git official site: https://git-scm.com/ <br/><br/>
 
-*  You can clone my repository with Terminal or CMD and run it<br />
+*  You can clone my repository with bash shell and run it<br/><br/>
   <code> >git clone https://github.com/JamieYAO/StateAutomataPractice.git </code><br/><br/>
   <code> >cd StateAutomataPractice && npm install </code><br/><br/>
   <code> >webpack </code><br/><br/>
