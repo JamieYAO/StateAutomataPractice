@@ -1,0 +1,18 @@
+# vim
+#
+*.swp
+
+# OSX
+#
+.DS_Store
+
+# node
+#
+node_modules/
+
+# local logs
+*.log
+
+# webpack
+web/bin
+web/bin/*
